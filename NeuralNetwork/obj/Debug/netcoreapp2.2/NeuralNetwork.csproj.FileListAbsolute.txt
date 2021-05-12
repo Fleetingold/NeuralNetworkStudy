@@ -1,0 +1,11 @@
+D:\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.2\NeuralNetwork.deps.json
+D:\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.2\NeuralNetwork.runtimeconfig.json
+D:\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.2\NeuralNetwork.runtimeconfig.dev.json
+D:\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.2\NeuralNetwork.dll
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.csprojAssemblyReference.cache
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.csproj.CoreCompileInputs.cache
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.AssemblyInfoInputs.cache
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.AssemblyInfo.cs
+D:\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp2.2\NeuralNetwork.pdb
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.dll
+D:\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp2.2\NeuralNetwork.pdb

@@ -1,0 +1,7 @@
+D:\NeuralNetwork\Keras.Net-master\bin\Debug\netcoreapp2.2\Keras.Net-master.deps.json
+D:\NeuralNetwork\Keras.Net-master\bin\Debug\netcoreapp2.2\Keras.Net-master.runtimeconfig.json
+D:\NeuralNetwork\Keras.Net-master\bin\Debug\netcoreapp2.2\Keras.Net-master.runtimeconfig.dev.json
+D:\NeuralNetwork\Keras.Net-master\bin\Debug\netcoreapp2.2\Keras.Net-master.dll
+D:\NeuralNetwork\Keras.Net-master\obj\Debug\netcoreapp2.2\Keras.Net-master.csproj.CoreCompileInputs.cache
+D:\NeuralNetwork\Keras.Net-master\obj\Debug\netcoreapp2.2\Keras.Net-master.AssemblyInfoInputs.cache
+D:\NeuralNetwork\Keras.Net-master\obj\Debug\netcoreapp2.2\Keras.Net-master.AssemblyInfo.cs

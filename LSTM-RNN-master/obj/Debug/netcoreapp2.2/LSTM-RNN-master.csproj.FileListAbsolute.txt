@@ -1,0 +1,8 @@
+D:\NeuralNetwork\LSTM-RNN-master\bin\Debug\netcoreapp2.2\LSTM-RNN-master.deps.json
+D:\NeuralNetwork\LSTM-RNN-master\bin\Debug\netcoreapp2.2\LSTM-RNN-master.runtimeconfig.json
+D:\NeuralNetwork\LSTM-RNN-master\bin\Debug\netcoreapp2.2\LSTM-RNN-master.runtimeconfig.dev.json
+D:\NeuralNetwork\LSTM-RNN-master\bin\Debug\netcoreapp2.2\LSTM-RNN-master.dll
+D:\NeuralNetwork\LSTM-RNN-master\obj\Debug\netcoreapp2.2\LSTM-RNN-master.csprojAssemblyReference.cache
+D:\NeuralNetwork\LSTM-RNN-master\obj\Debug\netcoreapp2.2\LSTM-RNN-master.csproj.CoreCompileInputs.cache
+D:\NeuralNetwork\LSTM-RNN-master\obj\Debug\netcoreapp2.2\LSTM-RNN-master.AssemblyInfoInputs.cache
+D:\NeuralNetwork\LSTM-RNN-master\obj\Debug\netcoreapp2.2\LSTM-RNN-master.AssemblyInfo.cs

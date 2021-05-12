@@ -1,0 +1,121 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "900f0c3a7f1c1d13b06cdf6179e5d74fd6293548"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "LSTM-RNN-master/1.0.0": {
+        "dependencies": {
+          "CNTK.CPUOnly": "2.7.0",
+          "CNTK.Deps.MKL": "2.7.0",
+          "CNTK.Deps.OpenCV.Zip": "2.7.0",
+          "CNTK.Deps.cuDNN": "2.7.0",
+          "CNTK.GPU": "2.7.0",
+          "Microsoft.Research.CNTK.CpuEval-mkl": "2.7.0"
+        },
+        "runtime": {
+          "LSTM-RNN-master.dll": {}
+        }
+      },
+      "CNTK.CPUOnly/2.7.0": {
+        "dependencies": {
+          "CNTK.Deps.MKL": "2.7.0",
+          "CNTK.Deps.OpenCV.Zip": "2.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cntk.Core.Managed-2.7.dll": {
+            "assemblyVersion": "2.7.0.0",
+            "fileVersion": "2.7.0.0"
+          }
+        }
+      },
+      "CNTK.Deps.Cuda/2.7.0": {},
+      "CNTK.Deps.cuDNN/2.7.0": {},
+      "CNTK.Deps.MKL/2.7.0": {},
+      "CNTK.Deps.OpenCV.Zip/2.7.0": {},
+      "CNTK.GPU/2.7.0": {
+        "dependencies": {
+          "CNTK.Deps.Cuda": "2.7.0",
+          "CNTK.Deps.MKL": "2.7.0",
+          "CNTK.Deps.OpenCV.Zip": "2.7.0",
+          "CNTK.Deps.cuDNN": "2.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cntk.Core.Managed-2.7.dll": {
+            "assemblyVersion": "2.7.0.0",
+            "fileVersion": "2.7.0.0"
+          }
+        }
+      },
+      "Microsoft.Research.CNTK.CpuEval-mkl/2.7.0": {
+        "dependencies": {
+          "CNTK.Deps.MKL": "2.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cntk.Eval.Wrapper-2.7.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LSTM-RNN-master/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CNTK.CPUOnly/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iNIarS9YWsg4iORoWxuaMw1pVcoN0vu/RHOilXKp6jmVOsQsHmtdUycrwSCDgIjykjpHSnqo3YpdYtlVMh2jZA==",
+      "path": "cntk.cpuonly/2.7.0",
+      "hashPath": "cntk.cpuonly.2.7.0.nupkg.sha512"
+    },
+    "CNTK.Deps.Cuda/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lWJtMkC77KKqV64iGu/VELaRKNMsZt+iuPWH++16GwS4tkPWW2SdgAQIG+R/j8ThYQRpWpKm3enUSX1s5k4qAQ==",
+      "path": "cntk.deps.cuda/2.7.0",
+      "hashPath": "cntk.deps.cuda.2.7.0.nupkg.sha512"
+    },
+    "CNTK.Deps.cuDNN/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UJxYMhhNMiaqIFV+ZmPZlupzHLVHUBWZd3lSO+dgzA4bThvUmtWU9JHe08SFLi2AMMW4sjzDktN5C0jrhXHDSA==",
+      "path": "cntk.deps.cudnn/2.7.0",
+      "hashPath": "cntk.deps.cudnn.2.7.0.nupkg.sha512"
+    },
+    "CNTK.Deps.MKL/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hRHtC/K4is/U7epC9Wu/EjTAqQgOL1QUUPX/mN0TGK4MO/zzzvpLg+AsTTh5NKRQe0nQQhqEKNxfVIgVd5yP4Q==",
+      "path": "cntk.deps.mkl/2.7.0",
+      "hashPath": "cntk.deps.mkl.2.7.0.nupkg.sha512"
+    },
+    "CNTK.Deps.OpenCV.Zip/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8Hkcu7wjThejTy5skZHbifBOuEcZNmQHq9MKg0MVyk8sywuxhjZw69G5vAi1UDIMR0EqvOHwpkcQPjjSRyOWuA==",
+      "path": "cntk.deps.opencv.zip/2.7.0",
+      "hashPath": "cntk.deps.opencv.zip.2.7.0.nupkg.sha512"
+    },
+    "CNTK.GPU/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-waiNxRNs0dBpkoyyGZapej2U8ARNmISFMZhWFntxQdcLuCn/PvL7c6I0SPj9Xa3WZ3JVHaiFCB2Pg1SNFCrJ9A==",
+      "path": "cntk.gpu/2.7.0",
+      "hashPath": "cntk.gpu.2.7.0.nupkg.sha512"
+    },
+    "Microsoft.Research.CNTK.CpuEval-mkl/2.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/3NiOKAIa0uPLwWlMEwV99ywjWaoraDXKNbJfltGJI283LMCwQoca9wTUNohXXN7opfDkgaaXRRs0nRh2utvwg==",
+      "path": "microsoft.research.cntk.cpueval-mkl/2.7.0",
+      "hashPath": "microsoft.research.cntk.cpueval-mkl.2.7.0.nupkg.sha512"
+    }
+  }
+}

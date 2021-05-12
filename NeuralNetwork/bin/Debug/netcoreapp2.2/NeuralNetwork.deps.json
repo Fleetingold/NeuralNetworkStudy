@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "a12d67f8a32ed6f5c0fbfea36087f383aa5c1a5f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "NeuralNetwork/1.0.0": {
+        "dependencies": {
+          "Ensure.That": "8.1.2",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "NeuralNetwork.dll": {}
+        }
+      },
+      "Ensure.That/8.1.2": {
+        "runtime": {
+          "lib/netstandard1.1/Ensure.That.dll": {
+            "assemblyVersion": "8.1.2.0",
+            "fileVersion": "8.1.2.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NeuralNetwork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ensure.That/8.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tdOQw+9k6xu57MJ7tRysxMzetS7bpQhkg/QT268ZTLiP2WPVGEHGQ+Ky+5ZDngmpy9iRBA7k2kaLNiYKiBE/qQ==",
+      "path": "ensure.that/8.1.2",
+      "hashPath": "ensure.that.8.1.2.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aTRmXwR5xYu+mWxE8r8W1DWnL02SeV8LwdQMsLwTWP8OZgrCCyTqvOAe5hRb1VNQYXjln7qr0PKpSyO/pcc19Q==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}
